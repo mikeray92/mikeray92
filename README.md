@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mikeray92
 - 👀 I’m interested in ... Computers, Programming, Coding, Gaming, and Cars
-- 🌱 I’m currently learning ... Javascriot & Spanish Language
+- 🌱 I’m currently learning ... Javascript & Spanish Language
 - 💞️ I’m looking to collaborate on ... Nothing at the moment
 - 📫 How to reach me ... Email: raykmikek92@gmail.com
 
